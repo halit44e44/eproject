@@ -1,0 +1,8 @@
+
+--BACKEND--
+http://halilsarkuteri.rf.gd/nedmin/production/login.php
+id: halil@halil.com
+şifre:123456
+
+--FRONTEND--
+http://halilsarkuteri.rf.gd/index.php
